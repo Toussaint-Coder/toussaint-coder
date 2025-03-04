@@ -1,7 +1,7 @@
 <h1 align="start">✨ Toussaint Iradukunda ✨</h1>
 <h3 align="start">Frontend Developer from Burundi 🇧🇮</h3>
 
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/iradukunda-toussaint-1861a8261"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" /></a>
   <a href="mailto:toussaintiradukunda4@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" /></a>
   <a href="https://www.instagram.com/toussaint_coder/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" /></a>

@@ -26,11 +26,11 @@
 ## 💼 About Me
 
 - 🔭 I'm currently working on **building responsive web applications**
-- 🌱 I'm currently learning **Next.js and TypeScript**
+- 🌱 I'm currently learning **NodeJs and TypeScript**
 - 👯 I'm looking to collaborate on **open source frontend projects**
-- 🤔 I'm looking for help with **advanced React patterns**
+- 🤔 I'm looking for help with **advanced NodeJs Middleware Features**
 - 💬 Ask me about **React, JavaScript, and UI/UX design**
-- ⚡ Fun fact: **I love solving algorithmic challenges while listening to jazz**
+- ⚡ Fun fact: **I love solving algorithmic challenges while listening to amapiano**
 
 ## 🛠️ Tech Stack
 
@@ -67,22 +67,13 @@ TypeScript   ███░░░░░░░░░░░░░░░   15.30%
 PHP          ██░░░░░░░░░░░░░░░░   10.05%
 ```
 
-## 🌟 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/toussaint-coder/budgetbase">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=toussaint-coder&repo=project-name-1&theme=dracula" alt="Project 1" />
-  </a>
-  <a href="https://github.com/toussaint-coder/project-name-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=toussaint-coder&repo=project-name-2&theme=dracula" alt="Project 2" />
-  </a>
-</div>
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Improved My React Components with Custom Hooks](https://medium.com/@toussaintiradukunda4)
-- [The Power of TypeScript in Frontend Development](https://medium.com/@toussaintiradukunda4)
-- [Building Responsive UIs with Tailwind CSS](https://medium.com/@toussaintiradukunda4)
+- [The essential tools you need to know before joining a team of developers.](https://medium.com/@toussaintiradukunda4/the-essential-tools-you-need-to-know-before-joining-a-team-of-developers-1e66acf9dba6)
+- [📱 Choosing the Right Cross-Platform Framework: React Native vs. Flutter 📱](https://medium.com/@toussaintiradukunda4/choosing-the-right-cross-platform-framework-react-native-vs-flutter-6a6604e06411)
+- [Discover How Can React and PHP Work Together for Your Future Web Projects](https://medium.com/@toussaintiradukunda4/discover-how-can-react-and-php-work-together-for-your-future-web-projects-f7393cf834ca)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 GitHub Trophies

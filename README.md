@@ -70,7 +70,7 @@ PHP          ██░░░░░░░░░░░░░░░░   10.05%
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/toussaint-coder/project-name-1">
+  <a href="https://github.com/toussaint-coder/budgetbase">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=toussaint-coder&repo=project-name-1&theme=dracula" alt="Project 1" />
   </a>
   <a href="https://github.com/toussaint-coder/project-name-2">

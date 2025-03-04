@@ -72,3 +72,9 @@
 <img src="https://raw.githubusercontent.com/toussaint-coder/toussaint-coder/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/toussaint-coder/count.svg?"  />
+</div>
+
+###

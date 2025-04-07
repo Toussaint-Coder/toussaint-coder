@@ -83,5 +83,5 @@ SQL          █████████████░░░░░   65.05%
 
 <div align="start">
   <img src="https://profile-counter.glitch.me/toussaint-coder/count.svg?" alt="Visitor Count" />
-  <p>Thank you for visiting my profile! Take a look on my protfolio <a href="https://2saint.ct.ws">here</a>. 😊</p>
+  <p>Thank you for visiting my profile! Take a look on my protfolio <a href="https://toussaintcoder.vercel.app/">here</a>. Bye Bye!😊</p>
 </div>
